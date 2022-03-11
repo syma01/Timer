@@ -1,0 +1,30 @@
+.stopwatch{
+    margin-top: 150px;
+    color: white;
+    text-align: center; 
+}
+
+.display{
+  margin-top: 10px;
+    color: #6600cc;
+    text-align: center; 	
+	font-size:57px;
+}
+
+button{
+    border-radius: 7px;
+    background: white;
+    color: #6600cc;
+    border: 1px solid #6600cc;
+    font-size: 23px;
+    padding: 16px 11px;
+    width: 120px;
+    margin-left:10px;
+    margin-top: 10px;
+}
+button:hover{
+    background: white;
+    color: grey;
+    border: 1px solid grey;
+}
+
